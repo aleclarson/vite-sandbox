@@ -1,0 +1,13 @@
+{
+  "name": "vite-sandbox",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.5",
+    "vite": "npm:@alloc/vite@^1.0.0-rc.9"
+  }
+}
