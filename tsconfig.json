@@ -1,0 +1,11 @@
+{
+  "include": ["vite.config.ts"],
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "lib": ["esnext"],
+    "target": "esnext",
+    "types": ["node"]
+  }
+}
