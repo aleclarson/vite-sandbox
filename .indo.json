@@ -1,0 +1,8 @@
+{
+  "repos": {
+    "vendor/vite-plugin-react": {
+      "url": "https://github.com/csr632/vite-plugin-react",
+      "head": "drop-pika-react"
+    }
+  }
+}
