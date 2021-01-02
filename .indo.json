@@ -1,0 +1,8 @@
+{
+  "repos": {
+    "react-responsive": {
+      "url": "https://github.com/aleclarson/react-responsive",
+      "head": "esm"
+    }
+  }
+}
